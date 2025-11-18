@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-9137*2npn(%=ltee@cp@2u@=#*jl$b7#_#t0+19&f=#qa+24fw
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['first-django-fqsv.onrender.com']
 
 
 # Application definition
